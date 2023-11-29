@@ -1,3 +1,8 @@
+# Description
+
+This is an assignment for using AutoML platform and Pyspark to build a machine learning model. I use F1 driver's dataset to predict their ranking based on certain predictors using elastic net model.
+
+
 # Homework #4: model building and tracking
 
 **Instructions**: For this assignment, we’d like you to use the F1 Datasets we have been using for the class to build any ML model of your choice and track the model for each run using [**MLflow**](https://www.mlflow.org). Select any of the F1 datasets in AWS S3 to build your model. You are allowed to join multiple datasets.
